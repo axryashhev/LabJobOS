@@ -1,0 +1,29 @@
+﻿  main.cpp
+d:\информация студента\desktop\labjob2\labjob2\actionwindow.h(8): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+d:\информация студента\desktop\labjob2\labjob2\figure.h(19): warning C4305: инициализация: усечение из "double" в "float"
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(146): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(147): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(150): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(152): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(153): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(168): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(169): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(171): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(172): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(174): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(175): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(187): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(188): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(190): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(191): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(193): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(194): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(196): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(197): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(328): warning C4305: аргумент: усечение из "double" в "float"
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(344): warning C4305: аргумент: усечение из "double" в "float"
+d:\информация студента\desktop\labjob2\labjob2\main.cpp(512): warning C4715: mirroring: значение возвращается не при всех путях выполнения
+  LabJob2.vcxproj -> D:\Информация студента\Desktop\LabJob2\Debug\LabJob2.exe
